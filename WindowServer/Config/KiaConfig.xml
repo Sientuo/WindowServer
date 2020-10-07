@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+
+  <DbCon>data source=.;initial catalog=ClassScreen_S;persist security info=True;user id=sa;password=sa123066</DbCon>
+  <PrduQueueOnceTime>6000</PrduQueueOnceTime>
+  <DealQueueOnceTime>3000</DealQueueOnceTime>
+</Root>
